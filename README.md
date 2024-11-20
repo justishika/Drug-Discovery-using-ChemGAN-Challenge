@@ -1,4 +1,4 @@
-# Drug Discovery with ChemGAN Challenge
+# Drug Discovery using ChemGAN Challenge
 
 ## Overview
 
