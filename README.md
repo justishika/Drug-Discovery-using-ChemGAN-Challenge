@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for a drug discovery project using Generative Adversarial Networks (GANs) to generate novel drug candidates. The approach is inspired by the [ChemGAN Challenge](https://www.youtube.com/watch?v=hY9Bc3mtphs) video by Siraj Raval, as part of the AI for Business series. The original code and authors can be found [here](https://github.com/mostafachatillon/ChemGAN-challenge).
+This repository contains code for a drug discovery project using Generative Adversarial Networks (GANs) to generate novel drug candidates. The approach is inspired by the [ChemGAN Challenge](https://www.youtube.com/watch?v=hY9Bc3mtphs) video by Siraj Raval, as part of the AI for Business series. The original code and authors can be found [here](https://github.com/llSourcell).
 
 The project aims to explore how AI can be leveraged to create molecules with desired properties for drug discovery.
 
