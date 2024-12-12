@@ -16,14 +16,10 @@ To run the code, you’ll need the following dependencies:
 - **TensorFlow**: Version 1.0.1
 
 ### Setup Instructions
-1. Install dependencies:
+ Install dependencies:
    ```bash
    conda install -c conda-forge rdkit=2017.03.3
    pip install tensorflow==1.0.1
-
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/drug-discovery.git
 
 3. Run the code in a Python environment
 
